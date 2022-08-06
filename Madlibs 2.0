@@ -1,0 +1,5 @@
+noun = input('Noun: ')
+food_place = input('Restaraunt: ')
+adjective = input('Adjective: ')
+
+print(f'Hey, {noun}, mom wants to eat at {food_place}. She says the food is {adjective}!')
